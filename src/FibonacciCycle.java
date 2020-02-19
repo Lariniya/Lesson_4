@@ -1,4 +1,4 @@
-public class Fibonacci {
+public class FibonacciCycle {
     public static void main(String[] args){
         int n0 = 1;
         int n1 = 1;
